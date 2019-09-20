@@ -1,0 +1,6 @@
+.paren::before {
+  content: '(';
+}
+.paren::after {
+  content: ')';
+}
